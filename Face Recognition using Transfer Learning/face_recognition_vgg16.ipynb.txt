@@ -6,9 +6,9 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "### Name : Hemant Gangwar\n",
+    "### Name : Akshay Maheshwari\n",
     "### Course : B.Tech\n",
-    "### Intern at Linux World Informatics"
+    "### MLOPs Intern at Linux World Informatics"
    ]
   },
   {
